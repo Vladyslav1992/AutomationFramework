@@ -1,0 +1,14 @@
+E:\Обучение\AutomationFramework\AutomationFramework\bin\Debug\AutomationFramework.exe.config
+E:\Обучение\AutomationFramework\AutomationFramework\bin\Debug\AutomationFramework.exe
+E:\Обучение\AutomationFramework\AutomationFramework\bin\Debug\AutomationFramework.pdb
+E:\Обучение\AutomationFramework\AutomationFramework\bin\Debug\nunit.framework.dll
+E:\Обучение\AutomationFramework\AutomationFramework\bin\Debug\WebDriver.dll
+E:\Обучение\AutomationFramework\AutomationFramework\bin\Debug\WebDriver.Support.dll
+E:\Обучение\AutomationFramework\AutomationFramework\bin\Debug\nunit.framework.pdb
+E:\Обучение\AutomationFramework\AutomationFramework\bin\Debug\nunit.framework.xml
+E:\Обучение\AutomationFramework\AutomationFramework\bin\Debug\WebDriver.xml
+E:\Обучение\AutomationFramework\AutomationFramework\bin\Debug\WebDriver.Support.xml
+E:\Обучение\AutomationFramework\AutomationFramework\obj\Debug\AutomationFramework.csproj.CoreCompileInputs.cache
+E:\Обучение\AutomationFramework\AutomationFramework\obj\Debug\AutomationFramework.csproj.CopyComplete
+E:\Обучение\AutomationFramework\AutomationFramework\obj\Debug\AutomationFramework.exe
+E:\Обучение\AutomationFramework\AutomationFramework\obj\Debug\AutomationFramework.pdb
