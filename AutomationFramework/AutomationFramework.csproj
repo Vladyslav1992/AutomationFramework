@@ -61,7 +61,9 @@
     <Compile Include="EntryPoint.cs" />
     <Compile Include="NavigateTo.cs" />
     <Compile Include="Pages\HomePage.cs" />
+    <Compile Include="Pages\LoginScenarioPost.cs" />
     <Compile Include="Pages\PageElements\Menu.cs" />
+    <Compile Include="Pages\TestScenariosPage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestBase.cs" />
   </ItemGroup>
