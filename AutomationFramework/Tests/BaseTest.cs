@@ -1,23 +1,17 @@
 ﻿using System.Threading;
 using NUnit.Framework;
 
-namespace AutomationFramework
+namespace AutomationFramework.Tests
 {
-    class TestBase
+    public class BaseTest
     {
-        [SetUp]
+        [OneTimeSetUp]
         public void Initialize()
         {
             Actions.InitializeDriver();
         }
 
-        [Test]
-        public void ExecuteTest()
-        {
-            Thread.Sleep(5000);
-        }
-
-        [TearDown]
+        [OneTimeTearDown]
         public void CleanUp()
         {
             DriverDefinition.Driver.Quit();

@@ -12,3 +12,17 @@ E:\Обучение\AutomationFramework\AutomationFramework\obj\Debug\Automation
 E:\Обучение\AutomationFramework\AutomationFramework\obj\Debug\AutomationFramework.csproj.CopyComplete
 E:\Обучение\AutomationFramework\AutomationFramework\obj\Debug\AutomationFramework.exe
 E:\Обучение\AutomationFramework\AutomationFramework\obj\Debug\AutomationFramework.pdb
+C:\Users\vlpl\Education\Git\AutomationFramework\AutomationFramework\bin\Debug\AutomationFramework.exe.config
+C:\Users\vlpl\Education\Git\AutomationFramework\AutomationFramework\bin\Debug\AutomationFramework.exe
+C:\Users\vlpl\Education\Git\AutomationFramework\AutomationFramework\bin\Debug\AutomationFramework.pdb
+C:\Users\vlpl\Education\Git\AutomationFramework\AutomationFramework\bin\Debug\nunit.framework.dll
+C:\Users\vlpl\Education\Git\AutomationFramework\AutomationFramework\bin\Debug\WebDriver.dll
+C:\Users\vlpl\Education\Git\AutomationFramework\AutomationFramework\bin\Debug\WebDriver.Support.dll
+C:\Users\vlpl\Education\Git\AutomationFramework\AutomationFramework\bin\Debug\nunit.framework.pdb
+C:\Users\vlpl\Education\Git\AutomationFramework\AutomationFramework\bin\Debug\nunit.framework.xml
+C:\Users\vlpl\Education\Git\AutomationFramework\AutomationFramework\bin\Debug\WebDriver.xml
+C:\Users\vlpl\Education\Git\AutomationFramework\AutomationFramework\bin\Debug\WebDriver.Support.xml
+C:\Users\vlpl\Education\Git\AutomationFramework\AutomationFramework\obj\Debug\AutomationFramework.csproj.CoreCompileInputs.cache
+C:\Users\vlpl\Education\Git\AutomationFramework\AutomationFramework\obj\Debug\AutomationFramework.csproj.CopyComplete
+C:\Users\vlpl\Education\Git\AutomationFramework\AutomationFramework\obj\Debug\AutomationFramework.exe
+C:\Users\vlpl\Education\Git\AutomationFramework\AutomationFramework\obj\Debug\AutomationFramework.pdb
